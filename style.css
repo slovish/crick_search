@@ -1,0 +1,41 @@
+.padding_100 {
+    padding-top: 100px;
+}
+
+
+.bg-dark {
+    background-color: rgb(198, 198, 198);
+}
+
+.nav_shadow {
+    box-shadow: 0px 1px 30px rgba(0, 255, 255, 0.5);
+    background-color: lightslategray;
+}
+
+.stats {
+    display: flex;
+    padding: 20px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.format_buttons {
+    display: flex;
+    padding-top: 20px;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.but1 {
+    padding: 5px;
+}
+
+.btn {
+    width: 100%;
+}
+
+.card_width {
+    width: 350px;
+}

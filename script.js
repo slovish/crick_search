@@ -4,7 +4,7 @@ var heading = "TEST";
 const options = {
     method: 'GET',
     headers: {
-        'X-RapidAPI-Key': '196ae7da1a4msha4ac982e2d8aec7p10f36ajsnf75e7c9fa6b7',
+        'X-RapidAPI-Key': '96ae7da1a4msha4ac982e2d8aec7p10f36ajsnf75e7c9fa6b7',
 		'X-RapidAPI-Host': 'cricbuzz-cricket.p.rapidapi.com'
     }
 };
